@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tanni_Protfolio/static/css/main.6124d1e2.css",
+    "main.js": "/tanni_Protfolio/static/js/main.c890b075.js",
+    "static/js/787.9d92750f.chunk.js": "/tanni_Protfolio/static/js/787.9d92750f.chunk.js",
+    "static/media/tanni5.jpeg": "/tanni_Protfolio/static/media/tanni5.bb3b0ccc8433d877815b.jpeg",
+    "static/media/work4.png": "/tanni_Protfolio/static/media/work4.5e6ef9cfdcafde620d5b.png",
+    "static/media/work1.png": "/tanni_Protfolio/static/media/work1.0c8bf95aad95a5aab8d9.png",
+    "static/media/background.jpg": "/tanni_Protfolio/static/media/background.fe27c576e982fe75bdd0.jpg",
+    "static/media/work3.png": "/tanni_Protfolio/static/media/work3.1ce356a125d175dae865.png",
+    "static/media/crud.png": "/tanni_Protfolio/static/media/crud.71cc9341f5deaacfb0ae.png",
+    "static/media/logo.svg": "/tanni_Protfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tanni_Protfolio/index.html",
+    "main.6124d1e2.css.map": "/tanni_Protfolio/static/css/main.6124d1e2.css.map",
+    "main.c890b075.js.map": "/tanni_Protfolio/static/js/main.c890b075.js.map",
+    "787.9d92750f.chunk.js.map": "/tanni_Protfolio/static/js/787.9d92750f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6124d1e2.css",
+    "static/js/main.c890b075.js"
+  ]
+}
