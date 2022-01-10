@@ -22,9 +22,8 @@ const Services = () => {
             />
             <h3 className="mt-3 text-2xl font-bold">Responsive website</h3>
             <p className="mt-4 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur aperiam quibusdam repudiandae et necessitatibus culpa
-              libero mollitia.
+            My favorite part is the ability to help brands figure out who they are through design. I love how colors and font can completely transform a website into something beautiful and inspiring. Vivid imagery
+             and a fresh layout can help a brand tell its story more effectively
             </p>
           </div>
         </div>
@@ -38,9 +37,10 @@ const Services = () => {
             />
             <h3 className="mt-3 text-2xl font-bold">Web Apps</h3>
             <p className="mt-4 ">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur aperiam quibusdam repudiandae et necessitatibus culpa
-              libero mollitia.
+            As a Frontend Developer I ensure that website visitors can easily interact with the page
+            I do this through the combination of design, technology and programming to code a
+             website’s appearance, as well as taking care of debugging.
+            
             </p>
           </div>
         </div>

@@ -4,10 +4,12 @@ import background from "../images/background.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGrinTears,
-  faHeadset,
-  faHeart,
+  faDatabase,
+  faProjectDiagram,
   faHome,
   faLaptopCode,
+  faBuilding,
+  faMobile,
 } from "@fortawesome/free-solid-svg-icons";
 
 const Introduction = () => {
@@ -39,10 +41,10 @@ const Introduction = () => {
                 your business grow online.{" "}
               </p>
               <div className="inline-flex space-x-5 text-gray-600 text-xl">
-                <FontAwesomeIcon icon={faHome} />
+                <FontAwesomeIcon icon={faMobile} />
                 <FontAwesomeIcon icon={faLaptopCode} />
-                <FontAwesomeIcon icon={faHeart} />
-                <FontAwesomeIcon icon={faHeadset} />
+                <FontAwesomeIcon icon={faProjectDiagram} />
+                <FontAwesomeIcon icon={faDatabase} />
               </div>
             </div>
             <img
