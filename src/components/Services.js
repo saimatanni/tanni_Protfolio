@@ -39,7 +39,7 @@ const Services = () => {
             <p className="mt-4 ">
             As a Frontend Developer I ensure that website visitors can easily interact with the page
             I do this through the combination of design, technology and programming to code a
-             website’s appearance, as well as taking care of debugging.
+             website's appearance, as well as taking care of debugging.
             
             </p>
           </div>
